@@ -1,0 +1,11 @@
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.formField {
+  text-align: left;
+  border: 1px solid black !important;
+  padding: 10px;
+  margin-bottom: 10px;
+}
